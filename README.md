@@ -4,13 +4,13 @@ Monorepo for the RoyaltyStack Dart and Flutter libraries.
 
 ## Packages
 
-- `packages/royalty_type`: Result type and helpers for error handling.
+- `packages/royalty`: Result type and helpers for error handling.
 - `packages/royalty_stack`: Umbrella package that re-exports bundled libraries.
 
 ## Usage
 
 ```dart
-import 'package:royalty_type/royalty_type.dart';
+import 'package:royalty/royalty.dart';
 
 final Result<int, String> value = Result.ok(42);
 ```

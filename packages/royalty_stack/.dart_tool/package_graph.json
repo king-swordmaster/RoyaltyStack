@@ -1,18 +1,18 @@
 {
   "roots": [
-    "sword_stack"
+    "royalty_stack"
   ],
   "packages": [
     {
-      "name": "sword_stack",
+      "name": "royalty_stack",
       "version": "0.1.0",
       "dependencies": [
-        "sword_result"
+        "royalty_type"
       ],
       "devDependencies": []
     },
     {
-      "name": "sword_result",
+      "name": "royalty_type",
       "version": "0.1.0",
       "dependencies": []
     }

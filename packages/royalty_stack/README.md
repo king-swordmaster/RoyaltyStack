@@ -4,7 +4,7 @@ Umbrella package that re-exports the RoyaltyStack libraries.
 
 ## Included packages
 
-- `royalty_type`
+- `royalty`
 
 ## Usage
 

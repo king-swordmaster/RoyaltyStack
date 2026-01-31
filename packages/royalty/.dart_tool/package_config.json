@@ -2,7 +2,7 @@
   "configVersion": 2,
   "packages": [
     {
-      "name": "sword_result",
+      "name": "royalty_type",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"

@@ -1,4 +1,4 @@
-name: royalty_type
+name: royalty
 description: Result type and helpers for RoyaltyStack.
 version: 0.1.0
 repository: https://github.com/king-swordmaster/RoyaltyStack

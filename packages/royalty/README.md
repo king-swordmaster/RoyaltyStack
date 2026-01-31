@@ -1,11 +1,11 @@
-# RoyaltyType
+# Royalty
 
 Result type and helpers for error handling in Dart and Flutter.
 
 ## Usage
 
 ```dart
-import 'package:royalty_type/royalty_type.dart';
+import 'package:royalty/royalty.dart';
 
 final Result<int, String> value = Result.ok(42);
 ```
