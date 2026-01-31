@@ -2,7 +2,7 @@
   "configVersion": 2,
   "packages": [
     {
-      "name": "royalty_type",
+      "name": "royalty",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"

@@ -1,10 +1,10 @@
 {
   "roots": [
-    "royalty_type"
+    "royalty"
   ],
   "packages": [
     {
-      "name": "royalty_type",
+      "name": "royalty",
       "version": "0.1.0",
       "dependencies": [],
       "devDependencies": []

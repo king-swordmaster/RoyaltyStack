@@ -7,12 +7,12 @@
       "name": "royalty_stack",
       "version": "0.1.0",
       "dependencies": [
-        "royalty_type"
+        "royalty"
       ],
       "devDependencies": []
     },
     {
-      "name": "royalty_type",
+      "name": "royalty",
       "version": "0.1.0",
       "dependencies": []
     }

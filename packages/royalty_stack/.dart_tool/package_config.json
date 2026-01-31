@@ -2,8 +2,8 @@
   "configVersion": 2,
   "packages": [
     {
-      "name": "royalty_type",
-      "rootUri": "file:///Users/mateusramos/.pub-cache/hosted/pub.dev/royalty_type-0.1.0",
+      "name": "royalty",
+      "rootUri": "file:///Users/mateusramos/.pub-cache/hosted/pub.dev/royalty-0.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },

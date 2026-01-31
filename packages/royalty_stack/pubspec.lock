@@ -5,7 +5,7 @@ packages:
     dependency: "direct main"
     description:
       name: royalty
-      sha256: "99afa0984a571e5a016cd55df445643958ee80702fd084d803c50741c09b98d6"
+      sha256: a63691fc5619cb6242200438e79234a2f80fa7ef16a6086f944faba387302aca
       url: "https://pub.dev"
     source: hosted
     version: "0.1.0"
