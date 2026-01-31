@@ -1,0 +1,11 @@
+name: royalty_stack
+description: RoyaltyStack umbrella package that re-exports bundled libraries.
+version: 0.1.0
+repository: https://github.com/king-swordmaster/RoyaltyStack
+issue_tracker: https://github.com/king-swordmaster/RoyaltyStack/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  royalty_type: ^0.1.0
